@@ -1,10 +1,7 @@
 # Student Management Database
-
 A beginner-friendly SQL database project for an IT/Database coursework portfolio.
-
 ## Contents
 - `student_management_database.sql` - complete database creation, sample data, and practice queries.
-
 ## Database Tables
 - Departments
 - Courses
